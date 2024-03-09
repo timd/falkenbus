@@ -1,0 +1,17 @@
+TN:
+SF:src/index.ts
+FN:1,helloWorld
+FN:5,testFunction
+FNF:2
+FNH:2
+FNDA:1,helloWorld
+FNDA:1,testFunction
+DA:2,1
+DA:5,1
+DA:6,1
+DA:9,1
+LF:4
+LH:4
+BRF:0
+BRH:0
+end_of_record
