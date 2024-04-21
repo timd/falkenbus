@@ -10,6 +10,13 @@ Being a small utility to calculate when I should leave the house to catch the bu
   - calculate if it's worth leaving (bus departure is more than 5 mins away)
 - returns JSON
 
+## TODO:
+- refactor to handle more than one journey
+- refactor to check direction of travel
+- refactor time handling to work one journey at a time
+- mock out API
+- tests for above
+
 # Stops
 
 Falkensee Bhf: 900210010
