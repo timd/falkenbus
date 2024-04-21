@@ -1,8 +1,8 @@
 import dotenv from "dotenv";
 import express from "express";
+const { DateTime } = require("luxon");
 import axios, { AxiosResponse, AxiosRequestConfig, RawAxiosRequestHeaders } from 'axios';
 
-const { DateTime } = require("luxon");
 
 
 // configures dotenv to work in your application
